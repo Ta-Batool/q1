@@ -5,7 +5,7 @@ Basic html code
 
 ##### Second branch Database service:
 mySQL database service
-#### Third branch cahce services:
+#### Third branch cahce services
 
 ##### compose file in docker:
 It connects multiple containers on a single device on a same network. So that they ancommiunicate with each other, even though they are isolated from each other but they can communicate. 
